@@ -27,7 +27,7 @@ Demo de chat en tiempo real y video llamada
 Para video llamada desde diferentes redes usar servidores TURN y STUNT
 
 # Demo
-https://chatvideocall.oneprotech.com
+http://chatvideocall.oneprotech.com
 
 <br>
 
