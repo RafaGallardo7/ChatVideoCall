@@ -25,7 +25,7 @@ Demo de chat en tiempo real y video llamada
 4. Por defecto el proyecto funcionará en la siguiente ruta: http://127.0.0.1:8000
 
 # Cuentas generadas para pruebas
-user1@gmail.com 123456
+user1@gmail.com 123456<br>
 user2@gmail.com 123456
 
 <br>
