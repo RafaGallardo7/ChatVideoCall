@@ -1,0 +1,472 @@
+body {    
+    font-family: 'Nunito', sans-serif;
+}
+
+.bg-white {
+    background-color:#FFFFFF;
+}
+.bg-black {
+    background-color:#000000;
+}
+.bg-color1 {
+    background-color:#c0c0c0;
+}
+
+.bg-second {
+    background-color: #ff9900 !important;    
+}
+
+.opacity-1 {
+    opacity:1;
+}
+
+
+.text-white {
+    color:#FFFFFF; 
+}
+.text-black {
+    color:#000000;
+}
+.text-red {
+    color:#FF0000;
+}
+.text-blue {
+    color:blue;
+}
+.text-main {
+    color:#990000;
+}
+.text-second {
+    color:#ff9900;
+}
+.text-third {
+    color:#808080;
+}
+
+.height100px {
+    height:100px;
+}
+.height150px {
+    height:150px;
+}
+.height200px {
+    height:200px;
+}
+.height300px {
+    height:300px;
+}
+.height80 {
+    height:80%;
+}
+.height90 {
+    height:90%;
+}
+.height100 {
+    height:100%;
+}
+
+.visibility-hidden {
+    visibility: hidden;
+}
+
+
+.pointer {
+    cursor:pointer;
+}
+.text-bold {
+    font-weight:bold;
+}
+.text-center {
+    text-align:center;
+}
+.text-left {
+    text-align:left;
+}
+.text-right {
+    text-align:right;
+}
+.text-justify {
+    text-align:justify;
+}
+
+.top10px {
+    padding-top:10px;
+}
+.top20px {
+    padding-top:20px;
+}
+.top30px {
+    padding-top:30px;
+}
+.top40px {
+    padding-top:40px;
+}
+.top50px {
+    padding-top:50px;
+}
+.top60px {
+    padding-top:60px;
+}
+.top70px {
+    padding-top:70px;
+}
+.top80px {
+    padding-top:80px;
+}
+.top90px {
+    padding-top:90px;
+}
+.top100px {
+    padding-top:100px;
+}
+.top150px {
+    padding-top:150px;
+}
+.top200px {
+    padding-top:200px;
+}
+.top5pt {
+    padding-top:5%;
+}
+.top10pt {
+    padding-top:10%;    
+}
+.top20pt {
+    padding-top:20%;
+}
+.bottom10px {
+    padding-bottom:10px;
+}
+.bottom20px {
+    padding-bottom:20px;
+}
+.bottom30px {
+    padding-bottom:30px;
+}
+.bottom40px {
+    padding-bottom:40px;
+}
+.bottom50px {
+    padding-bottom:50px;
+}
+.bottom60px {
+    padding-bottom:60px;
+}
+.bottom70px {
+    padding-bottom:70px;
+}
+.bottom80px {
+    padding-bottom:80px;
+}
+.bottom90px {
+    padding-bottom:90px;
+}
+.bottom100px {
+    padding-bottom:100px;
+}
+.bottom150px {
+    padding-bottom:150px;
+}
+.bottom200px {
+    padding-bottom:200px;
+}
+.bottom5pt {
+    padding-bottom:5%;
+}
+.bottom10pt {
+    padding-bottom:10%;    
+}
+.bottom20pt {
+    padding-bottom:20%;
+}
+.carruselText1 {
+    margin-top:-250px;
+}
+
+.font-size60 {
+    font-size:60%;
+}
+.font-size70 {
+    font-size:70%;
+}
+.font-size80 {
+    font-size:80%;
+}
+.font-size90 {
+    font-size:90%;
+}
+.font-size100 {
+    font-size:100%;
+}
+.font-size110 {
+    font-size:110%;
+}    
+.font-size120 {
+    font-size:120%;
+}    
+.font-size130 {
+    font-size:130%;
+}    
+.font-size140 {
+    font-size:140%;
+}    
+.font-size150 {
+    font-size:150%;
+}
+.font-size160 {
+    font-size:160%;
+}
+.font-size170 {
+    font-size:170%;
+}
+.font-size180 {
+    font-size:180%;
+}
+.font-size190 {
+    font-size:190%;
+}
+.font-size200 {
+    font-size:200%;
+}
+.font-size220 {
+    font-size:220%;
+}
+.font-size240 {
+    font-size:240%;
+}
+.font-size260 {
+    font-size:260%;
+}
+.font-size280 {
+    font-size:280%;
+}
+.font-size300 {
+    font-size:300%;
+}
+.font-size320 {
+    font-size:320%;
+}
+.font-size340 {
+    font-size:340%;
+}
+.font-size360 {
+    font-size:360%;
+}
+.font-size380 {
+    font-size:380%;
+}
+.font-size400 {
+    font-size:400%;
+}
+.left10px {
+    padding-left:10px;
+}
+.left20px {
+    padding-left:20px;
+}
+.left30px {
+    padding-left:30px;
+}
+.left40px {
+    padding-left:40px;
+}
+.left50px {
+    padding-left:50px;
+}
+.right10px {
+    padding-right:10px;
+}
+.right20px {
+    padding-right:20px;
+}
+.right30px {
+    padding-right:30px;
+}
+.right40px {
+    padding-right:40px;
+}
+.right50px {
+    padding-right:50px;
+}
+
+.linea-gray {
+    width:75%; 
+    border-color:gray;
+}
+
+
+.logo-navBar {
+    width:16%;
+    height:auto;
+}       
+.input-contacto {
+    width:40%;
+}
+
+.linea-gray {
+    width:75%; 
+    border-color:gray;
+}
+
+.mTop-25 {
+    margin-top:-25px;
+}
+
+.height40px {
+    height:40px;
+}
+.height60px {
+    height:60px;
+}
+.height80px {
+    height:80px;
+}
+.marginLeft10px {
+    margin-left:10px;    
+}
+
+.modal-style {
+    height:450px; 
+    overflow-y:auto;
+}
+
+.margin-bottom-50px {
+    margin-bottom:50px;
+}
+
+.margin-bottom-70px {
+    margin-bottom:70px;
+}
+
+.margin-bottom-100px {
+    margin-bottom:100px;
+}
+
+.margin-top-70px {
+    margin-top:70px;
+}
+
+.scaleIcon1-2:hover {
+    -webkit-transform: scale(1.2); 
+    transform: scale(1.2)
+}
+
+.pointer {
+    cursor:pointer;
+}
+
+.bg-label-cita {
+    background-color:#c0c0c0;
+    color:#FFFFFF;
+    height:25px;
+}
+
+.bg-label-cita1 {
+    background-color:#999999;
+    color:#FFFFFF;
+    height:25px;
+}
+
+.upload-btn-wrapper {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.btnInput {
+    border: 2px solid gray;
+    color: gray;
+    background-color: white;
+    padding: 8px 20px;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.upload-btn-wrapper input[type=file] {
+    font-size: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+}
+
+.bg-color2 {
+    background-color:#c0c0c0;
+}
+
+.bg-color3 {
+    background-color:#c0c0c0;
+}
+
+.bg-color4 {
+    background-color:#c0c0c0;
+}
+
+.bg-color5 {
+    background-color:#0000ff;
+}
+
+@media (max-width: 1000px) {    
+    .input-contacto {
+        width:80%;
+    }
+}
+  
+@media (max-width: 800px) {
+    .logo-navBar {
+        width:20%;
+        height:auto;
+    }
+    .input-contacto {
+        width:90%;
+    }
+}
+
+@media (max-width: 600px) {
+    .logo-navBar {
+        width:30%;
+        height:auto;
+    }
+}
+
+
+
+/* MAPA MUNDIAL */
+.container-fluid {
+    margin-top: 10px;
+}
+#info .f32 .flag {
+    position: absolute;
+    top: 8px;
+}
+
+.clearfix {
+    clear: both;
+}
+.card-header.subheader {
+    font-size: 0.9rem;
+    color: rgba(0, 0, 0, 0.75);
+    background-color: transparent;
+    border-bottom: none;
+}
+.card {
+    /* height: 60vh; */
+    min-height: 400px;
+    margin-bottom: 1em;
+}
+
+
+@media screen and (max-width: 780px) {
+    .card {
+        max-height: 400px;
+    }
+    .col-12 {
+        padding-left: 2px !important;
+        padding-right: 2px !important;
+    }
+}
+
+.charts-full{                
+    padding-right: 10px; 
+}

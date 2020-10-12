@@ -1,0 +1,30 @@
+.btn {
+    /* color:#FFFFFF !important; */
+}
+.btn-main {
+    background-color: #990000 !important;
+    color:#FFFFFF !important;
+}
+.bg-main {
+    background-color: #990000 !important;    
+    color:#FFFFFF !important;
+}
+
+a.btn-main:hover,
+a.btn-main:focus,
+button.btn-main:hover,
+button.btn-main:focus {
+    background-color: #990000c9 !important;
+}
+
+.btn-second {
+    background-color: #ff9900 !important;    
+    color:#FFFFFF !important;
+}
+
+a.btn-second:hover,
+a.btn-second:focus,
+button.btn-second:hover,
+button.btn-second:focus {
+    background-color: #ff9900de !important;
+}
